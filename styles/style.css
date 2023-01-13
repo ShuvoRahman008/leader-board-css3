@@ -152,7 +152,7 @@ hr {
         width: 100%;
     }
     .players , .courses{
-        background-color: red;
+       
         grid-template-columns: repeat(2, 1fr);
 
     }
